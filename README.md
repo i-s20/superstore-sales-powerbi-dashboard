@@ -1,4 +1,5 @@
 # superstore-sales-powerbi-dashboard
+![Dashboard](dashboard.png)
 Superstore Sales & Profit Dashboard
 
 Project Overview
