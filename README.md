@@ -1,3 +1,4 @@
+<img width="1164" height="632" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/a33c915b-8677-4394-8335-b320382979c9" />
 # superstore-sales-powerbi-dashboard
 ![Dashboard](dashboard.png)
 Superstore Sales & Profit Dashboard
