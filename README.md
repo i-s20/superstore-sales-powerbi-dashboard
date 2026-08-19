@@ -6,21 +6,21 @@ Project Overview
 
 Tools Used
 -Power BI
--Power Query
--DAX
--CSV dataset
+,Power Query
+,DAX
+,CSV dataset
 
 Key Features
 -Total Sales KPI
--Total Profit KPI
--Total Orders KPI
--Profit Margin KPI
--Sales by Category
--Sales by Region
--Sales Trend Over Time
--Profit by Category
--Top 10 Products by Sales
--Interactive filters for Date, Category, and Region
+,Total Profit KPI
+,Total Orders KPI
+,Profit Margin KPI
+,Sales by Category
+,Sales by Region
+,Sales Trend Over Time
+,Profit by Category
+,Top 10 Products by Sales
+,Interactive filters for Date, Category, and Region
 
 Data Preparation
 -The dataset was cleaned and prepared using Power Query. Data types were checked and corrected for dates, numerical fields, and text fields before loading the data into Power BI.
