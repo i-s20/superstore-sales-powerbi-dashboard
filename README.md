@@ -27,9 +27,9 @@ Data Preparation
 
 DAX Measures
 -The dashboard uses DAX measures for:
-Total Sales
-Total Profit
-Total Orders
+Total Sales,
+Total Profit,
+Total Orders,
 Profit Margin
 
 What I Learned
