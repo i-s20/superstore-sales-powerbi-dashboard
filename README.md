@@ -1,6 +1,4 @@
-<img width="1164" height="632" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/a33c915b-8677-4394-8335-b320382979c9" />
 # superstore-sales-powerbi-dashboard
-![Dashboard](dashboard.png)
 Superstore Sales & Profit Dashboard
 
 Project Overview
@@ -36,3 +34,4 @@ Profit Margin
 
 What I Learned
 -Through this project, I practiced data cleaning with Power Query, creating DAX measures, designing interactive Power BI dashboards, using slicers and filters, and presenting business insights through visualizations.
+<img width="1164" height="632" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/a33c915b-8677-4394-8335-b320382979c9" /><img width="1185" height="629" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/965c9082-f1b1-41b8-b73c-e444a2d3819c" />
